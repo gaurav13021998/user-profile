@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Gaurav",
+      "lastName": "Singh",
+      "salary": 20000,
+      "gender": "Male",
+      "dateOfBirth": "2019-01-11",
+      "employmentType": "None",
+      "cars": "salaried"
+    },
+    {
+      "firstName": "Vipul",
+      "lastName": "Pathak",
+      "salary": "15000",
+      "gender": "Male",
+      "dateOfBirth": "2018-06-08",
+      "website": "",
+      "cars": "salaried",
+      "id": 2,
+      "employmentType": "None"
+    },
+    {
+      "firstName": "Nikki",
+      "lastName": "Saroj",
+      "salary": "16000",
+      "gender": "Female",
+      "dateOfBirth": "2008-11-07",
+      "website": "",
+      "employmentType": "Self-employed",
+      "id": 3
+    }
+  ]
+}
